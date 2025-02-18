@@ -11,7 +11,7 @@ public class A_String_Task {
         Scanner scn = new Scanner(System.in);
         String s = scn.nextLine();
 
-
+fasfadfhsalfkashfhsafaskfhusalkf
         StringBuilder sb = new StringBuilder("");
         int i =0;
         while (i<s.length()) {
