@@ -13,6 +13,7 @@ public class A_Helpful_Maths {
         }
         Arrays.sort(ch);           //==123
 
+        for(int )
         Character ch2[]= new Character[s.length()];
         int j =0;
         for(int i =0;i<s.length();i++){
